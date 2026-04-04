@@ -4,8 +4,6 @@ Senior Frontend Developer based in Israel. I build tools that ship fast and stay
 
 **What I work with:** TypeScript · Angular · Node.js · Web Components · CSS · MongoDB · AWS
 
-**What I believe in:** SOLID over clever, shipping over discussing, `npm` over everything else.
-
 ---
 
 ### Open Source
