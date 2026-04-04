@@ -14,7 +14,6 @@ Senior Frontend Developer based in Israel. I build tools that ship fast and stay
 |---------|-------------|
 | [🦝 ShelfCheck](https://github.com/bullwinkle/ShelfCheck) | AI-powered food safety accountability — tracks FDA recalls, scores brands, auto-generates reports |
 | [📝 analog-autoblog-template](https://github.com/bullwinkle/analog-autoblog-template) | Clone-and-go auto-blogging template with GitHub Actions + AI content generation |
-| [📧 email-router](https://github.com/bullwinkle/email-router) | Intelligent email routing for freight — customs releases → railway stations |
 
 ---
 
