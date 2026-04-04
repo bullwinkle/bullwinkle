@@ -20,7 +20,7 @@ Senior Frontend Developer based in Israel. I build tools that ship fast and stay
 ### Currently
 
 - 🔧 Building automated content pipelines with GitHub Actions + GitHub Models
-- 📡 Running **Frontend AI News** — a Telegram channel for frontend developers (curated by AI, edited by humans)
+- 📡 Running **Frontend >> AI News** — a Telegram channel for frontend developers (curated by AI, edited by humans)
 - 🏗️ Self-hosting everything on a single box with Coolify
 
 ---
