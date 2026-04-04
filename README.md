@@ -1,5 +1,29 @@
-# Bullwinkle's **space**
+# Hey, I'm Dmitriy 👋
 
-<img src="https://media1.giphy.com/media/fUH5dmsC028dTvmKyD/giphy.gif" width="100%" alt="Spaceman">
+Senior Frontend Developer based in Israel. I build tools that ship fast and stay maintainable.
 
-### ***...loading ideas***     ...:snail:
+**What I work with:** TypeScript · Angular · Node.js · Web Components · CSS · MongoDB · AWS
+
+**What I believe in:** SOLID over clever, shipping over discussing, `npm` over everything else.
+
+---
+
+### Open Source
+
+| Project | What it does |
+|---------|-------------|
+| [🦝 ShelfCheck](https://github.com/bullwinkle/ShelfCheck) | AI-powered food safety accountability — tracks FDA recalls, scores brands, auto-generates reports |
+| [📝 analog-autoblog-template](https://github.com/bullwinkle/analog-autoblog-template) | Clone-and-go auto-blogging template with GitHub Actions + AI content generation |
+| [📧 email-router](https://github.com/bullwinkle/email-router) | Intelligent email routing for freight — customs releases → railway stations |
+
+---
+
+### Currently
+
+- 🔧 Building automated content pipelines with GitHub Actions + GitHub Models
+- 📡 Running **фронт>>** — a Telegram channel for frontend developers (curated by AI, edited by humans)
+- 🏗️ Self-hosting everything on a single box with Coolify
+
+---
+
+<sub>If my work is useful to you — [sponsor me](https://github.com/sponsors/bullwinkle) ❤️</sub>
