@@ -13,6 +13,8 @@ Senior Frontend Developer based in Israel. 12+ years building for the web. I cre
 | Project | What it does | |
 |---------|-------------|---|
 | [🦝 **ShelfCheck**](https://github.com/bullwinkle/ShelfCheck) | AI-powered food safety accountability — 580+ FDA recalls tracked, 258 brands scored, auto-generated daily reports | [![](https://img.shields.io/github/stars/bullwinkle/ShelfCheck?style=social)](https://github.com/bullwinkle/ShelfCheck) |
+| [◈ **oss-gap**](https://github.com/bullwinkle/oss-gap) | Validated open-source opportunity briefs — real community pain signals, buildable scope, no hype | [![](https://img.shields.io/github/stars/bullwinkle/oss-gap?style=social)](https://github.com/bullwinkle/oss-gap) |
+| [🦊 **HustleIdeas**](https://github.com/bullwinkle/HustleIdeas) | AI-generated content channel blueprints — automated, monetizable ideas published daily | [![](https://img.shields.io/github/stars/bullwinkle/HustleIdeas?style=social)](https://github.com/bullwinkle/HustleIdeas) |
 | [📝 **analog-autoblog-template**](https://github.com/bullwinkle/analog-autoblog-template) | Clone-and-go auto-blogging — GitHub Actions + GitHub Models + JSON storage + GitHub Pages | [![](https://img.shields.io/github/stars/bullwinkle/analog-autoblog-template?style=social)](https://github.com/bullwinkle/analog-autoblog-template) |
 
 **Coming soon:** `@bullwinkle/fda-recalls` · `@bullwinkle/rocky` · `@bullwinkle/autoblog-core`
@@ -22,6 +24,8 @@ Senior Frontend Developer based in Israel. 12+ years building for the web. I cre
 ### Currently
 
 - 🦝 Building [ShelfCheck](https://bullwinkle.js.org/ShelfCheck/) — the food industry's report card (222 recalls in 2026 so far, 71 Class I)
+- ◈ [oss-gap](https://bullwinkle.js.org/oss-gap) — validated open-source opportunity briefs
+- 🦊 [HustleIdeas](https://bullwinkle.js.org/HustleIdeas) — automated content channel blueprints published daily
 - 📡 Running [**Frontend >> AI News**](https://t.me/ai_front) — curated Telegram channel for frontend devs
 - 🐿️ Developing `rocky` — a personal project registry for managing hundreds of projects across machines
 - 🏗️ Self-hosting everything on a single box with Coolify
